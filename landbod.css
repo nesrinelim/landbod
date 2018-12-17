@@ -1,0 +1,73 @@
+.hd{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    font-size: 170%;
+}
+body{
+    text-align: center;
+    background-color: #281e65;
+    color: rgb(69, 33, 98);
+}
+.sign{
+    border-radius: 15px;
+    border: 1px solid white;
+    background-color: #281e65;
+    /* width: 51%; */
+    color: white;
+    height: 131%;
+}
+.login{
+    border: 1px solid #281e65;
+    background-color: #281e65;
+    color: white;
+    height: 131%;
+}
+.discussion-box{
+    background: white;
+    width: 32%;
+    text-align: left;
+    margin-left: 33%;
+    border-radius: 12px;
+    padding: 1%;
+    margin-bottom: 2%;
+}
+.image{
+    border-radius: 10px;
+    width: 24%;
+}
+.user-action p{
+    color: white;
+    margin-right: 2%;
+}
+.option-choice{
+    color: white;
+    margin-right: 25%;
+}
+.user-actionb{
+    background-color: rgb(238, 0, 118);
+
+border-color: rgb(188, 0, 68);
+color: rgb(255, 255, 255);
+cursor: pointer;
+margin-right: 6px;
+margin-bottom: 6px;
+padding: 1%;
+border-radius: 12px;
+}
+.user-actionb:hover{
+    background-color: rgb(255, 30, 148);
+}
+footer{
+    display: flex;
+    justify-content: flex-start;
+    background: white;
+    width: 49%;
+    border-radius: 12px;
+    margin-top: 2%;
+    color: white;
+}
+.par{
+    margin-left: -32%;
+    color: #281e65;
+}
